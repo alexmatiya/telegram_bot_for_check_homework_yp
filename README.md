@@ -43,8 +43,8 @@ TELEGRAM_CHAT_ID = id вашего чата в Telegram.
 
 1. ```PRACTICUM_TOKEN``` - <a href="https://oauth.yandex.ru/authorize?response_type=token&client_id=1d0b9dd4d652455a9eb710d450ff456a" target="_blank">Получить токен</a>.
 2. ```TELEGRAM_TOKEN``` - Зарегистрируйте бота в BotFather: <a href="https://t.me/BotFather" target="_blank">Регистрация бота и получение токена</a>.
-3. ```TELEGRAM_CHAT_ID``` - Получите id своего чата у бота Userinfobot:<br>
+3. ```TELEGRAM_CHAT_ID``` - Получите id своего чата у бота Userinfobot:
 <a href="https://t.me/userinfobot" target="_blank">Получить свой id</a>
 
 ### Автор
-- [Александр Матияка](https://github.com/alexsevv)
+- [Александр Матияка](https://github.com/alexmatiya/)
